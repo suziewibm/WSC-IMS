@@ -1,25 +1,58 @@
 Accessing the hands-on lab for OPEN API3
 
-Serial No	URL	User ID	Password
-1	https://T-9504-169-48-3-239.ibmztrialmachines.com/	Administrator	XY6HFDeuzTgRkVXiwDzf
-2	https://T-9505-169-48-3-251.ibmztrialmachines.com/	Administrator	bOigNtZOSeZCDhMHr8hC
-3	https://T-9506-169-48-3-238.ibmztrialmachines.com/	Administrator	TkLjAw5J5Yz3yMivCPEH
-6	https://T-9509-169-48-3-242.ibmztrialmachines.com/	Administrator	iSa5YLAI6zosaRtLq7Sh
-4	https://T-9508-169-48-3-231.ibmztrialmachines.com/	Administrator	lJaPSX80AijrLRDWcq00
-5	https://T-9507-169-48-3-240.ibmztrialmachines.com/	Administrator	3Q6Ckh3yBRAWWpcEilum
+Student	     URL	                                                        User ID	           Password
+   1          https://T-20395-159-122-242-154.ibmztrialmachines.com  	   Administrator 	     AMz7RU0zc9wBf5VNWk1s
 
+   2          https://T-20396-169-50-99-40.ibmztrialmachines.com        	Administrator 	     kYnP53O87ZCxt20Qqg3W
 
-Accessing the hands-on lab for Ansible
- 
-ID Administrator
-https://t-9534-169-59-184-131.ibmztrialmachines.com/	YCdh0HHYbw7LBIi8GZOp
-https://t-9536-169-59-184-224.ibmztrialmachines.com/	VNiqCBzx42i8SlPs6ryS
-https://t-9538-169-59-184-96.ibmztrialmachines.com/	nZqqRLFN9Piw7a6ewr1o
-https://t-9542-169-59-184-234.ibmztrialmachines.com/	UkRHDNgrwqFBG8m8byKA
-https://t-9543-169-59-184-125.ibmztrialmachines.com/	1HEVMM8XjPmFnPhBUluy
-https://t-9544-169-59-184-230.ibmztrialmachines.com/	VorewlmEB6IRuYNepjiP
-https://t-9549-169-59-184-249.ibmztrialmachines.com/	O2Ra3AGwZqWW43S43b8d
-https://t-9551-169-59-184-81.ibmztrialmachines.com/	kOZZ1EupgJFwmrqBQG0a
-https://t-9552-169-59-184-235.ibmztrialmachines.com/	92vIQw1NR1ZB3gY33de9
-https://t-9555-169-59-184-193.ibmztrialmachines.com/	ZkGyrJK2od9OmmT4VrAV
+   3          https://T-20398-159-122-242-186.ibmztrialmachines.com  	   Administrator 	     NCGonCmaExNqXJz95BDb
 
+   4          https://T-20399-159-122-242-181.ibmztrialmachines.com  	   Administrator 	     MWAQ1POZHYwNIkcjVm4k
+
+   5          https://T-20400-159-8-142-42.ibmztrialmachines.com        	Administrator 	     VF0dFAWJEtnPxe0BBBon
+
+   6          https://T-20401-169-50-99-11.ibmztrialmachines.com       	 Administrator 	     1ospqyjbbtxOdBDcNJkF
+
+   7          https://T-20402-169-50-99-13.ibmztrialmachines.com        	Administrator 	     e8npS0yIY0ZzMPzlEHVw
+
+   8          https://T-20403-159-122-228-59.ibmztrialmachines.com      	Administrator 	     zIoagJ5DMpJqSbWFa8CO
+
+   9          https://T-20404-169-50-99-8.ibmztrialmachines.com  	       Administrator 	     RIJRn5nQuYId0TABf4yl
+
+   10         https://T-20405-159-8-142-38.ibmztrialmachines.com        	Administrator 	     c0W3ib6aM3TePJomlo63 
+
+   11         https://T-20406-169-50-99-29.ibmztrialmachines.com  	      Administrator 	     0rw04YVXxhP5dfbVqlC7
+
+   12         https://T-20407-169-50-99-36.ibmztrialmachines.com  	      Administrator 	     fjPr4zYZ44oS6OU1TkJr
+
+   13         https://T-20408-169-50-99-12.ibmztrialmachines.com        	Administrator 	     uI2qu6TKMjzJUcUsGt5H
+
+   14         https://T-20409-169-50-99-24.ibmztrialmachines.com        	Administrator 	     kLCPLwITIK9nO9qtF4Ul
+
+   15         https://T-20410-169-50-99-23.ibmztrialmachines.com        	Administrator 	     jQBWzgOraAE557kbIBlF
+
+   16         https://T-20411-159-8-131-20.ibmztrialmachines.com 	       Administrator 	     D8iY5LFlD72pBU2iuliN
+
+   17         https://T-20412-159-8-142-16.ibmztrialmachines.com        	Administrator 	     TOLBY4sIDjgYKnUvhxPv
+
+   18         https://T-20413-169-50-99-25.ibmztrialmachines.com        	Administrator 	     8HTiCfjfOREfkIPCNJOW
+
+   19         https://T-20414-159-122-228-35.ibmztrialmachines.com      	Administrator 	     Zw7kLQfEswn2qYY4u4kI
+
+   20         https://T-20415-169-50-99-43.ibmztrialmachines.com        	Administrator 	     npZmUhdz7ZwXulERlz0K 
+
+   21         https://T-20416-159-8-142-22.ibmztrialmachines.com        	Administrator 	     UcNOgL3LmFGfGwxb3YZw
+
+   22         https://T-20417-159-122-228-58.ibmztrialmachines.com      	Administrator 	     5wLjjR6XzKHWduYnElkc
+
+   23         https://T-20418-159-8-142-3.ibmztrialmachines.com         	Administrator 	     DfPfNQu9LcKtoSJd20dO
+
+   24         https://T-20419-159-8-142-24.ibmztrialmachines.com        	Administrator 	     4GqEolY3ykfjuaJRBmmo
+
+   25         https://T-20420-159-122-228-46.ibmztrialmachines.com      	Administrator 	     3gbXGMxOqh4VQUL1GsHB
+
+   26         https://T-20421-159-122-228-57.ibmztrialmachines.com      	Administrator 	     J53x0gWmQ3bcYYnC7njQ
+
+   27         https://T-20422-159-8-142-48.ibmztrialmachines.com  	      Administrator 	     CWKeGFyrPyTj4fR81Grq
+
+   28         https://T-20423-159-122-228-36.ibmztrialmachines.com  	    Administrator 	     zgqdWWTF2wDC7dhmvgrn  
