@@ -1,37 +1,16 @@
 Accessing the hands-on lab for Ansible and IMS
 
-Student	     URL	                                                    User ID	           Password
+Student	     URL	                                       user ID	           Password
 
-01	https://T-34161-150-240-26-69.ibmztrialmachines.com/ 		Administrator 		EZviIIES24pKK2I9zda6
+01	        https://ibm.biz/BdGADP                Administrator          389G3oUR8nIFmyyvFUzi
 
-02	https://T-34179-150-240-26-96.ibmztrialmachines.com/ 		Administrator 		7pgMP54OsiFY58WnXV4R
+02          https://ibm.biz/BdGADm                Administrator          doJdOLNkMOJrPf0bvJkt
 
-03	https://T-34181-150-240-26-171.ibmztrialmachines.com/ 		Administrator 		vLM9ijtgZjGqOuIqw86C
+03          https://ibm.biz/BdGADK                Administrator          Xq4sqJk2A3Qj67acJrUh
 
-04	https://T-34183-150-240-26-172.ibmztrialmachines.com/ 		Administrator 		wx73n699b0HeBwHHRg8n
-
-05	https://T-34185-150-240-26-15.ibmztrialmachines.com/ 		Administrator 		aRMlliDX8cKUCh0cANgd
-
-06	https://T-34188-150-240-26-25.ibmztrialmachines.com/ 		Administrator 		4lSx9TTdoQFqB9uNOxtY
-
-07	https://T-34189-150-240-26-226.ibmztrialmachines.com/ 		Administrator 		0KTxQhU4n5M7MhidDDVC
-
-08	https://T-34193-150-240-26-109.ibmztrialmachines.com/ 		Administrator 		VSEa2uv6JFldgRUs0ull
-
-09	https://T-34195-150-240-26-64.ibmztrialmachines.com/ 		Administrator 		p9ASgYg0ng1cXuzEIDgL
-
-10	https://T-34197-150-240-26-44.ibmztrialmachines.com/ 		Administrator 		SS9LCtaBo8YmjjnV4QwT
-
-11	https://T-34198-150-240-26-48.ibmztrialmachines.com/ 		Administrator 		pE8i7b948jR6LfjbzuDj
-
-12	https://T-34199-150-240-26-91.ibmztrialmachines.com/ 		Administrator 		ZeIohBh3FEGPGcjzD3ho
-
-13	https://T-34201-150-240-26-75.ibmztrialmachines.com/ 		Administrator 		KPT2ztII19aZhRUudVCF
-
-14	https://T-34203-150-240-26-186.ibmztrialmachines.com/ 		Administrator 		HWpeSt5C1GsT7fG1l3ga
-
-15	https://T-34205-150-240-26-141.ibmztrialmachines.com/ 		Administrator 		U2rU18cuIF07Syv23EbJ
-
-16	https://T-34206-150-240-26-175.ibmztrialmachines.com/ 		Administrator 		nrBozatEBSQAQzD5jdEt
-
-17	https://T-34208-150-240-26-163.ibmztrialmachines.com/ 		Administrator 		MMAS8lKdv9lOPIWvFsnF  
+04          https://ibm.biz/BdGADa                Administrator          hmisbykVD5gw6RhW8MeS
+      
+05          https://ibm.biz/BdGADG                Administrator          L06yFxPxyefDJzZZME7M
+    
+06          https://ibm.biz/BdGADn                Administrator          uul8jdx8HzClTELGOlsq
+    
